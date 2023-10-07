@@ -4,6 +4,7 @@ main(){
 
 printf("Hello");
 gecth();
+printf("Test");
 
 
 }
