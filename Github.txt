@@ -1,0 +1,13 @@
+
+Github login for Meshba
+
+email shailesh@meshbaco.com
+PWD Sbuddhe@1
+shaimeshba
+
+
+HTTPS:https://github.com/Vendiman-New/VM1.0_BOM_SCHEMATIC.git
+SSH:git@github.com:Vendiman-New/VM1.0_BOM_SCHEMATIC.git
+
+
+https://github.com/Vendiman-New/VM1.0_BOM_SCHEMATIC
